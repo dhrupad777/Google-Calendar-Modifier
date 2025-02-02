@@ -1,1 +1,2 @@
-Made a node server to add my university weekley timetable to my google calendar till my smester ends
+Made a node server to add my university weekley timetable to my google calendar till my smester ends.
+Still getting used to Github 😊.
